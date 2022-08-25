@@ -16,7 +16,7 @@ This app also allows hosting an event on various platforms.
 * firebase
 
 ## Demonstration Video
-<img src="https://github.com/disha2000/HackMe-The-Hackthons-Webinar-notification-App/blob/master/demo/demogif.gif" width="500" height="900" />
+<img src="https://github.com/disha2000/HackMe-The-Hackthons-Webinar-notification-App/blob/master/demo/demogif.gif" width="250" height="500" />
 
 
 ##Contributors names and contact info
