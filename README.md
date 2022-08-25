@@ -19,5 +19,5 @@ This app also allows hosting an event on various platforms.
 <img src="https://github.com/disha2000/HackMe-The-Hackthons-Webinar-notification-App/blob/master/demo/demogif.gif" width="250" height="500" />
 
 
-##Contributors names and contact info
+## Contributors names and contact info
 * Disha Doshi:&nbsp;doshidisha555@gmail.com
